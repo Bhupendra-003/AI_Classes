@@ -2,7 +2,6 @@
 
 This project automates interaction with LeetCode problems using Selenium and the Brave browser. It allows you to log in with saved cookies and simulate actions like submitting a solution.
 
-
 ---
 
 ## 📦 Requirements
