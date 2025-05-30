@@ -10,3 +10,14 @@ while(True):  # repeat 3 times
     pyautogui.moveRel(0, 100, duration=0.5)   # down
     pyautogui.moveRel(-100, 0, duration=0.5)  # left
     pyautogui.moveRel(0, -100, duration=0.5)  # up
+
+# Inverted triangle
+
+# * * * * *
+# * * * *
+# * * *
+# * *
+# *
+
+for i in range(5):
+    print('* '*(5-i))
